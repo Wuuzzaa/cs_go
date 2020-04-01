@@ -7,6 +7,21 @@ mostly taken from this tutorial:
 
 https://cs.ingame.de/counter-strike-global-offensive/tipps-tricks/grenade-trajectory/
 
+## Features
+- godmode
+- removes bots
+- infinite ammo
+- infinite nades
+- give ak
+- enable grenade trajectory
+- enable grenade preview
+- show weapon impacts
+- rethrow grenade
+- noclip
+- no waiting times for warumup and freezetime
+- 60000$ and buy anytime anywhere
+
+
 ## How to use:
 save both files in:
 
