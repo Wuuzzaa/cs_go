@@ -25,8 +25,11 @@ https://cs.ingame.de/counter-strike-global-offensive/tipps-tricks/grenade-trajec
 ## How to use:
 save both files in:
 
-C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\cfg
+\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\cfg
 
+or (depending on your pc)
+
+\Steam\userdata\00000000\730\local\cfg where “00000000” is your steam ID.
 
 run both scripts in the console with:
 
