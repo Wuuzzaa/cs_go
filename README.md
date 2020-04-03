@@ -20,6 +20,7 @@ https://cs.ingame.de/counter-strike-global-offensive/tipps-tricks/grenade-trajec
 - noclip
 - no waiting times for warumup and freezetime
 - 60000$ and buy anytime anywhere
+- place a standing t_bot by pressing f9
 
 
 ## How to use:
@@ -44,6 +45,6 @@ exec nades_server
 exec nades_util
 
 ## Warning:
-Binds the x button to noclip and f8 button to rethrow the last nade. You can adjust the buttons in nades_util.cfg.
+Binds the x button to noclip, f8 button to rethrow the last nade and f9 to place a standing bot. You can adjust the buttons in nades_util.cfg.
 
 
